@@ -50,5 +50,5 @@ Architecturally, the models are quite different. Logistic regression (91.6% accu
 With HyperDrive, we can increase the maximum total runs allowing us to go through more hyperparameter options. Also, with AutoML, running for much longer time allows us to go through more models supported by AutoML for classification. Trying more models will help us find the best model for the problem in hand.  Using different parameter sampling techniques and tuning the arguments of the BanditPolicy can also prove beneficial.
 
 ## Proof of cluster clean up
-https://github.com/NikitaMahajan19/MachineLearning/blob/master/cluster.JPG
+![alt text](https://github.com/NikitaMahajan19/MachineLearning/blob/master/cluster.JPG)
 
